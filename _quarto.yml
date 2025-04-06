@@ -3,11 +3,15 @@ project:
 
 website:
   sidebar:
+    background: "#4a6fa5"
     style: "docked"
     search: true
     contents:
-      - text: "About"
+      - text: "About me"
         href: index.qmd
+      - section: "Causal inference"
+        contents: 
+          - contents/causal_inference/causal.qmd
      
 
 

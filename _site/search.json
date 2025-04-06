@@ -6,7 +6,7 @@
     "section": "",
     "text": "Hi! I am a senior data scientist working on real-world data at a pharmaceutical company called Novo Nordisk.\nI mainly use this website to document my learning journey as a data scientist. It consists of topics such as causal inference, machine learning, visualisation and coding tips!\nI code in R, SQL and Python mainly. My native language is R.",
     "crumbs": [
-      "About"
+      "About me"
     ]
   },
   {
@@ -23,7 +23,7 @@
     "section": "Education",
     "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011",
     "crumbs": [
-      "About"
+      "About me"
     ]
   },
   {
@@ -33,7 +33,7 @@
     "section": "Experience",
     "text": "Experience",
     "crumbs": [
-      "About"
+      "About me"
     ]
   },
   {
@@ -43,7 +43,18 @@
     "section": "",
     "text": "Hi! I am a senior data scientist working on real-world data at a pharmaceutical company called Novo Nordisk.\nI mainly use this website to document my learning journey as a data scientist. It consists of topics such as causal inference, machine learning, visualisation and coding tips!\nI code in R, SQL and Python mainly. My native language is R.",
     "crumbs": [
-      "About"
+      "About me"
+    ]
+  },
+  {
+    "objectID": "contents/causal_inference/causal.html",
+    "href": "contents/causal_inference/causal.html",
+    "title": "Introduction to causal inference",
+    "section": "",
+    "text": "What is causal inference?\n\n\nThe Book of Why",
+    "crumbs": [
+      "Causal inference",
+      "Introduction to causal inference"
     ]
   }
 ]

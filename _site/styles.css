@@ -9,8 +9,8 @@
 
 :root {
   /* Core Pastel Green Variables */
-  --background-color: #c9ddd7;  /* A darker pastel green */
-  --primary-color: #aed9cc;     /* Soft pastel teal/green for buttons */
+  --background-color: #c9ddd7;  /*  A darker pastel green */
+  --primary-color: #aed9cc;     /*  Soft pastel teal/green for buttons */
   --secondary-color: #fce3e3;   /* Soft pastel pink (optional contrast) */
   --accent-color: #e9f8ec;      /* Light pastel green accent */
   --heading-text-color: #333;   /* Slightly darker heading text */
@@ -18,6 +18,8 @@
   --border-color: #aaa;         /* Darker border for better contrast */
   --link-color: #5aaea6;        /* Greenish teal link color */
   --link-hover-color: #42837c;  /* Darker hover state for links */
+  --sidebar-background-color: #4a6fa5
+  --sidebar-text-color: white;
 }
 
 /* Base Styles */
@@ -113,4 +115,16 @@ footer {
   padding: 1rem;
   margin-top: 2rem;
   border-top: 1px solid var(--border-color);
+}
+
+
+.bi-bluesky::before {
+    content: "";
+    background-color: currentColor;
+    -webkit-mask: url("./images/bluesky_icon.svg") no-repeat 50% 50%;
+    mask: url("./images/bluesky_icon.svg") no-repeat 50% 50%;
+    -webkit-mask-size: cover;
+    mask-size: cover;
+    height: 16px;
+    width: 16px;
 }

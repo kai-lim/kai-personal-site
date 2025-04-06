@@ -4,12 +4,15 @@ about:
   template: trestles
   image: images/Kai_square_smaller.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    - icon: bi-bluesky
+      text: BlueSky
+      href: https://bsky.app/profile/kxlim.bsky.social
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/kai-lim
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kai-xiang-lim-5e345/
 ---
 
 ## Hello! 
