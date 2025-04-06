@@ -2,7 +2,7 @@
 title: "Kai Xiang Lim"
 about:
   template: trestles
-  image: _resources/Kai_square.jpeg
+  image: images/Kai_square_smaller.jpg
   links:
     - icon: twitter
       text: twitter
