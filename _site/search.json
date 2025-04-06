@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Kai Xiang Lim",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.",
+    "text": "Hi! I am a senior data scientist working on real-world data at a pharmaceutical company called Novo Nordisk.\nI mainly use this website to document my learning journey as a data scientist. It consists of topics such as causal inference, machine learning, visualisation and coding tips!\nI code in R, SQL and Python mainly. My native language is R.",
     "crumbs": [
       "About"
     ]
@@ -14,7 +14,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html#education",
@@ -31,7 +31,17 @@
     "href": "index.html#experience",
     "title": "Kai Xiang Lim",
     "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018\nHello! Welcome to my personal website!\nI am a senior data scientist working on real-world data at a pharmaceutical company called Novo Nordisk.\nI mainly use this website to document my learning journey as a data scientist. It consists of topics such as causal inference, machine learning, visualisation and coding tips!\nI code in R, SQL and Python mainly. My native language is R.",
+    "text": "Experience",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Kai Xiang Lim",
+    "section": "",
+    "text": "Hi! I am a senior data scientist working on real-world data at a pharmaceutical company called Novo Nordisk.\nI mainly use this website to document my learning journey as a data scientist. It consists of topics such as causal inference, machine learning, visualisation and coding tips!\nI code in R, SQL and Python mainly. My native language is R.",
     "crumbs": [
       "About"
     ]
