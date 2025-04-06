@@ -2,15 +2,38 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "kai_personal_site",
+    "title": "Kai Xiang Lim",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.",
+    "crumbs": [
+      "About"
+    ]
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kai Xiang Lim",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Kai Xiang Lim",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018\nHello! Welcome to my personal website!\nI am a senior data scientist working on real-world data at a pharmaceutical company called Novo Nordisk.\nI mainly use this website to document my learning journey as a data scientist. It consists of topics such as causal inference, machine learning, visualisation and coding tips!\nI code in R, SQL and Python mainly. My native language is R.",
+    "crumbs": [
+      "About"
+    ]
   }
 ]
