@@ -12,6 +12,7 @@ website:
       - section: "Causal inference"
         contents: 
           - contents/causal_inference/causal.qmd
+          - contents/causal_inference/causal_generative_model.qmd
      
 
 

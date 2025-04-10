@@ -17,21 +17,34 @@ about:
 
 ## Hello! 
 
-Hi! I am a senior data scientist working on real-world data at a pharmaceutical company called Novo Nordisk. 
+Hi! I am a senior data scientist working on real-world data in the pharmaceutical and healthcare sector. 
 
 I mainly use this website to document my learning journey as a data scientist. It consists of topics such as causal inference, machine learning, visualisation and coding tips! 
 
 
 I code in R, SQL and Python mainly. My native language is R. 
 
-## Education
-
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul, MN
-B.A in Economics | Sept 2007 - June 2011
 
 ## Experience
 
+**Senior Data Scientist, Novo Nordisk** 
+<br> London, UK | September 2024 - present
 
+**Analytical Data Scientist, Roche**
+<br> Welwyn Garden City, UK | 2023 - 2024
+
+## Education
+
+**PhD in Statistical Genetics**
+<br> King's College London | 2019 - 2023
+
+You can read my PhD thesis [here](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/206125455/2023_Lim_Kai_1437440_ethesis.pdf).
+
+
+**MSc GED PP**
+<br> King's College London | 2017 - 2018
+
+I moved south of Thames and was based at the Social, Genetics and Developmental Psychiatry (SGDP) centre to begin my academic journey. The full name of the "MSc GED PP" course was a mouthful -- it stands for "Genes, Environment and Development in Psychology and Psychiatry"! 
+
+**BSc Psychology, University College London**
+<br> University College London | 2014 - 2017

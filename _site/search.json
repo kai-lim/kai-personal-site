@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Kai Xiang Lim",
     "section": "",
-    "text": "Hi! I am a senior data scientist working on real-world data at a pharmaceutical company called Novo Nordisk.\nI mainly use this website to document my learning journey as a data scientist. It consists of topics such as causal inference, machine learning, visualisation and coding tips!\nI code in R, SQL and Python mainly. My native language is R.",
+    "text": "Hi! I am a senior data scientist working on real-world data in the pharmaceutical and healthcare sector.\nI mainly use this website to document my learning journey as a data scientist. It consists of topics such as causal inference, machine learning, visualisation and coding tips!\nI code in R, SQL and Python mainly. My native language is R.",
     "crumbs": [
       "About me"
     ]
@@ -21,7 +21,7 @@
     "href": "index.html#education",
     "title": "Kai Xiang Lim",
     "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011",
+    "text": "Education\nPhD in Statistical Genetics  King’s College London | 2019 - 2023\nYou can read my PhD thesis here.\nMSc GED PP  King’s College London | 2017 - 2018\nI moved south of Thames and was based at the Social, Genetics and Developmental Psychiatry (SGDP) centre to begin my academic journey. The full name of the “MSc GED PP” course was a mouthful – it stands for “Genes, Environment and Development in Psychology and Psychiatry”!\nBSc Psychology, University College London  University College London | 2014 - 2017",
     "crumbs": [
       "About me"
     ]
@@ -31,7 +31,7 @@
     "href": "index.html#experience",
     "title": "Kai Xiang Lim",
     "section": "Experience",
-    "text": "Experience",
+    "text": "Experience\nSenior Data Scientist, Novo Nordisk  London, UK | September 2024 - present\nAnalytical Data Scientist, Roche  Welwyn Garden City, UK | 2023 - 2024",
     "crumbs": [
       "About me"
     ]
@@ -41,7 +41,7 @@
     "href": "index.html#hello",
     "title": "Kai Xiang Lim",
     "section": "",
-    "text": "Hi! I am a senior data scientist working on real-world data at a pharmaceutical company called Novo Nordisk.\nI mainly use this website to document my learning journey as a data scientist. It consists of topics such as causal inference, machine learning, visualisation and coding tips!\nI code in R, SQL and Python mainly. My native language is R.",
+    "text": "Hi! I am a senior data scientist working on real-world data in the pharmaceutical and healthcare sector.\nI mainly use this website to document my learning journey as a data scientist. It consists of topics such as causal inference, machine learning, visualisation and coding tips!\nI code in R, SQL and Python mainly. My native language is R.",
     "crumbs": [
       "About me"
     ]
