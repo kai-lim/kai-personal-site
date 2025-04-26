@@ -9,6 +9,9 @@ website:
     contents:
       - text: "About me"
         href: index.qmd
+      - section: "My PhD projects"
+        contents: 
+          - contents/phd_projects/ted-self-harm.qmd
       - section: "Causal inference"
         contents: 
           - contents/causal_inference/causal.qmd
