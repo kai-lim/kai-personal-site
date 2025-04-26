@@ -16,8 +16,8 @@
   --heading-text-color: #333;   /* Slightly darker heading text */
   --body-text-color: #444;      /* Body text color */
   --border-color: #aaa;         /* Darker border for better contrast */
-  --link-color: #5aaea6;        /* Greenish teal link color */
-  --link-hover-color: #42837c;  /* Darker hover state for links */
+  --link-color: #4a6fa5;        /* Greenish teal link color */
+  --link-hover-color: #aaa;  /* Darker hover state for links */
   --sidebar-background-color: #4a6fa5
   --sidebar-text-color: white;
 }
@@ -91,7 +91,7 @@ a:hover {
 input,
 select,
 textarea {
-  font-family: inherit;
+  font-family: "Helvetica Neue", Arial, sans-serif;
   padding: 0.5rem;
   border: 1px solid var(--border-color);
   border-radius: 4px;
