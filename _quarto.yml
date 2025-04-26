@@ -2,8 +2,10 @@ project:
   type: website
 
 website:
+  bread-crumbs: true
   sidebar:
     background: "#4a6fa5"
+    collapse-level: 1
     style: "docked"
     search: true
     contents:
